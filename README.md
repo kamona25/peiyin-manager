@@ -20,7 +20,7 @@
 
 ## 隐私
 - 本包不含任何原作者凭证 / 真实数据；你的所有个人信息只存在你本机的 `peiyin-config.md` 与 `icloud_config.py`。
-- 切勿把 `icloud_config.py` 分享给他人。
+- 填入个人信息后，请勿把 `peiyin-config.md` 或 `icloud_config.py` 分享给他人或提交到公开仓库。
 
 ## 许可证
 [MIT](LICENSE) © 2026 kamona25 — 可自由使用、修改、分享，作者不对使用后果负责。
